@@ -24,3 +24,22 @@ For the records that could not be filled meaningfully, we chose to remove them.
 At the end of the process, we identified the four countries with the lowest sales. Among them, we extracted the 10 individual records with the lowest sales.
 
 We then calculated the average sales of these low-performing records and compared them to the overall sales average using a visual chart to provide insight into performance distribution.
+
+-----------
+outlier
+✨ Libraries Used:
+• 🟢 cuDF
+• 🟢 cuPy
+
+🛠 Other Tools:
+• 💻 Google Colab (coding environment)
+• ⚡ GPU (for faster computations)
+• ☁️ Google Drive (for data storage)
+• 📊 Kaggle (for datasets)
+
+⸻
+
+📌 Project Overview:
+In this project, we aimed to efficiently process and analyze data. Our primary focus was on detecting outliers in the dataset. The outlier values were saved in a CSV file for further examination.
+
+For spatial analysis, we used the starting latitude and longitude coordinates as reference points, which allowed us to explore patterns and anomalies more accurately
